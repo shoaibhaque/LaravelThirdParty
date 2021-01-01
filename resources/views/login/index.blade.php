@@ -11,7 +11,7 @@
 			<table align="center">
 				<tr>
 					<td colspan="2" align="right"><h3 style="text-shadow: 2px 2px 4px #000000;">Welcome To 
-						                                                       <br>Secured Medicine Supply System</h3></td>
+						                                                       <br>User Management System</h3></td>
 				</tr>
 				<tr>
 					<th colspan="2" align="center"><font style="font-size: 12px">Login With Your Username and Password</font></th>
