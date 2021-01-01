@@ -16,7 +16,7 @@ class LoginController extends Controller
     		return redirect()->route('home.index');
     	}
     	else{
-    		$req->session()->flash('msg', 'Invalid Username no or Password!');
+    		$req->session()->flash('msg', 'Invalid Username or Password!');
     		return redirect()->route('login.index');
     	}
     }
